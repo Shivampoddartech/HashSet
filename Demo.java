@@ -11,9 +11,9 @@ public class Demo {
 		h.add("Java");
 		h.add(10);
 		System.out.println(h);
-		
+
 		System.out.println("----------------------");
-		
+
 		for (Object obj : h) {
 			System.out.println(obj);
 		}
